@@ -8,4 +8,6 @@ This method is part of the unsupervised learning where we need to find a meaning
 
 ## Algorithm
 
+The KMeans Clustering algorithm can be described as per below graph. Credit is given to https://data-science-infinity.teachable.com/
+![algorithm](https://user-images.githubusercontent.com/76395229/107938704-0a0f2e80-6f86-11eb-8dec-0e5c1261ab86.png)
 
