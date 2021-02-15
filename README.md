@@ -12,3 +12,4 @@ The K-Means Clustering algorithm can be described as per below graph. Credit is 
 
 ![algorithm](https://user-images.githubusercontent.com/76395229/107938704-0a0f2e80-6f86-11eb-8dec-0e5c1261ab86.png)
 
+This Notebook describes how to use the K-Means clustering method to calculate the supermarket customer segmentation. The results of this analysis will help the marketing team to tailor the marketing campaign of the new products to the customers' needs.
